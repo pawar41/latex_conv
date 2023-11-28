@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.11.23)  28 NOV 2023 15:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.11.23)  28 NOV 2023 15:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**rahul_op.tex
-(./rahul_op.tex
+**"Document from Prachi Torave.tex"
+(./Document from Prachi Torave.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-01-16>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -155,33 +155,102 @@ Package color Info: Driver file: pdftex.def on input line 149.
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
+\c@tracingmulticols=\count273
+\mult@box=\box53
+\multicol@leftmargin=\dimen151
+\c@unbalance=\count274
+\c@collectmore=\count275
+\doublecol@number=\count276
+\multicoltolerance=\count277
+\multicolpretolerance=\count278
+\full@width=\dimen152
+\page@free=\dimen153
+\premulticols=\dimen154
+\postmulticols=\dimen155
+\multicolsep=\skip53
+\multicolbaselineskip=\skip54
+\partial@page=\box54
+\last@line=\box55
+\maxbalancingoverflow=\dimen156
+\mult@rightbox=\box56
+\mult@grightbox=\box57
+\mult@firstbox=\box58
+\mult@gfirstbox=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\c@minrows=\count279
+\c@columnbadness=\count280
+\c@finalcolumnbadness=\count281
+\last@try=\dimen157
+\multicolovershoot=\dimen158
+\multicolundershoot=\dimen159
+\mult@nat@firstbox=\box96
+\colbreak@box=\box97
+\mc@col@check@num=\count282
+)
 (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
 Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
-\col@sep=\dimen151
-\ar@mcellbox=\box53
-\extrarowheight=\dimen152
+\col@sep=\dimen160
+\ar@mcellbox=\box98
+\extrarowheight=\dimen161
 \NC@list=\toks23
-\extratabsurround=\skip53
-\backup@length=\skip54
-\ar@cellbox=\box54
+\extratabsurround=\skip55
+\backup@length=\skip56
+\ar@cellbox=\box99
 )
 (/usr/share/texlive/texmf-dist/tex/latex/supertabular/supertabular.sty
 Package: supertabular 2020/02/02 v4.1g the supertabular environment
-\c@tracingst=\count273
-\ST@wd=\dimen153
-\ST@rightskip=\skip55
-\ST@leftskip=\skip56
-\ST@parfillskip=\skip57
-\ST@pageleft=\dimen154
-\ST@headht=\dimen155
-\ST@tailht=\dimen156
-\ST@pagesofar=\dimen157
-\ST@pboxht=\dimen158
-\ST@lineht=\dimen159
-\ST@prevht=\dimen160
-\ST@toadd=\dimen161
-\ST@dimen=\dimen162
-\ST@pbox=\box55
+\c@tracingst=\count283
+\ST@wd=\dimen162
+\ST@rightskip=\skip57
+\ST@leftskip=\skip58
+\ST@parfillskip=\skip59
+\ST@pageleft=\dimen163
+\ST@headht=\dimen164
+\ST@tailht=\dimen165
+\ST@pagesofar=\dimen166
+\ST@pboxht=\dimen167
+\ST@lineht=\dimen168
+\ST@prevht=\dimen169
+\ST@toadd=\dimen170
+\ST@dimen=\dimen171
+\ST@pbox=\box100
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/hhline.sty
 Package: hhline 2020/01/04 v2.04 Table rule package (DPC)
@@ -240,11 +309,11 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count274
+\c@section@level=\count284
 )
-\@linkdim=\dimen163
-\Hy@linkcounter=\count275
-\Hy@pagecounter=\count276
+\@linkdim=\dimen172
+\Hy@linkcounter=\count285
+\Hy@pagecounter=\count286
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2022-11-13 v7.00u Hyperref: PDFDocEncoding definition (HO)
@@ -257,7 +326,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count277
+\Hy@SavedSpaceFactor=\count287
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2022-11-13 v7.00u Hyperref: PDF Unicode definition (HO)
@@ -271,14 +340,14 @@ Package hyperref Info: Plain pages OFF on input line 4177.
 Package hyperref Info: Backreferencing OFF on input line 4182.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4410.
-\c@Hy@tempcnt=\count278
+\c@Hy@tempcnt=\count288
 
 (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4748.
-\XeTeXLinkMargin=\dimen164
+\XeTeXLinkMargin=\dimen173
 
 (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -287,9 +356,9 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count279
-\Field@Width=\dimen165
-\Fld@charsize=\dimen166
+\Fld@menulength=\count289
+\Field@Width=\dimen174
+\Fld@charsize=\dimen175
 Package hyperref Info: Hyper figures OFF on input line 6027.
 Package hyperref Info: Link nesting OFF on input line 6032.
 Package hyperref Info: Hyper index ON on input line 6035.
@@ -302,9 +371,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6057.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count280
-\c@Item=\count281
-\c@Hfootnote=\count282
+\Hy@abspage=\count290
+\c@Item=\count291
+\c@Hfootnote=\count292
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
@@ -316,8 +385,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count283
-\c@bookmark@seq@number=\count284
+\Fld@listcount=\count293
+\c@bookmark@seq@number=\count294
 
 (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
@@ -328,13 +397,13 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 85.
 )
-\Hy@SectionHShift=\skip58
+\Hy@SectionHShift=\skip60
 )
 
 Package hyperref Warning: Option `pdftex' has already been used,
-(hyperref)                setting the option has no effect on input line 14.
+(hyperref)                setting the option has no effect on input line 15.
 
-Package hyperref Info: Option `colorlinks' set `true' on input line 14.
+Package hyperref Info: Option `colorlinks' set `true' on input line 15.
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
@@ -349,48 +418,50 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 )
-\Gin@req@height=\dimen167
-\Gin@req@width=\dimen168
+\Gin@req@height=\dimen176
+\Gin@req@width=\dimen177
 )
+\c@saveenum=\count295
+
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count285
-\l__pdf_internal_box=\box56
+\l__color_backend_stack_int=\count296
+\l__pdf_internal_box=\box101
 )
-(./rahul_op.aux)
-\openout1 = `rahul_op.aux'.
+(./Document from Prachi Torave.aux)
+\openout1 = `"Document from Prachi Torave.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 169.
-LaTeX Font Info:    ... okay on input line 169.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 169.
-LaTeX Font Info:    ... okay on input line 169.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 169.
-LaTeX Font Info:    ... okay on input line 169.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 169.
-LaTeX Font Info:    ... okay on input line 169.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 169.
-LaTeX Font Info:    ... okay on input line 169.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 169.
-LaTeX Font Info:    ... okay on input line 169.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 169.
-LaTeX Font Info:    ... okay on input line 169.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 169.
-LaTeX Font Info:    ... okay on input line 169.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 169.
-LaTeX Font Info:    ... okay on input line 169.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 273.
+LaTeX Font Info:    ... okay on input line 273.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 273.
+LaTeX Font Info:    ... okay on input line 273.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 273.
+LaTeX Font Info:    ... okay on input line 273.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 273.
+LaTeX Font Info:    ... okay on input line 273.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 273.
+LaTeX Font Info:    ... okay on input line 273.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 273.
+LaTeX Font Info:    ... okay on input line 273.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 273.
+LaTeX Font Info:    ... okay on input line 273.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 273.
+LaTeX Font Info:    ... okay on input line 273.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 273.
+LaTeX Font Info:    ... okay on input line 273.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count286
-\scratchdimen=\dimen169
-\scratchbox=\box57
-\nofMPsegments=\count287
-\nofMParguments=\count288
+\scratchcounter=\count297
+\scratchdimen=\dimen178
+\scratchbox=\box102
+\nofMPsegments=\count298
+\nofMParguments=\count299
 \everyMPshowfont=\toks25
-\MPscratchCnt=\count289
-\MPscratchDim=\dimen170
-\MPnumerator=\count290
-\makeMPintoPDFobject=\count291
+\MPscratchCnt=\count300
+\MPscratchDim=\dimen179
+\MPnumerator=\count301
+\makeMPintoPDFobject=\count302
 \everyMPtoPDFconversion=\toks26
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -409,284 +480,144 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring ON on input line 169.
+Package hyperref Info: Link coloring ON on input line 273.
 
-(./rahul_op.out) (./rahul_op.out)
+(./Document from Prachi Torave.out) (./Document from Prachi Torave.out)
 \@outlinefile=\write3
-\openout3 = `rahul_op.out'.
-
-<rahulop-img001.png, id=4, 253.94875pt x 190.7125pt>
-File: rahulop-img001.png Graphic file (type png)
-<use rahulop-img001.png>
-Package pdftex.def Info: rahulop-img001.png  used on input line 171.
-(pdftex.def)             Requested size: 100.17883pt x 75.22438pt.
-<rahulop-img002.jpg, id=5, 224.84pt x 240.9pt>
-File: rahulop-img002.jpg Graphic file (type jpg)
-<use rahulop-img002.jpg>
-Package pdftex.def Info: rahulop-img002.jpg  used on input line 252.
-(pdftex.def)             Requested size: 80.68845pt x 86.72392pt.
- [1
+\openout3 = `"Document from Prachi Torave.out"'.
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./rahulop-img001.png (PNG 
-copy)> <./rahulop-img002.jpg>]
-<rahulop-img003.jpg, id=13, 224.84pt x 240.9pt>
-File: rahulop-img003.jpg Graphic file (type jpg)
-<use rahulop-img003.jpg>
-Package pdftex.def Info: rahulop-img003.jpg  used on input line 289.
-(pdftex.def)             Requested size: 80.8051pt x 86.72392pt.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 348
+Overfull \hbox (10.40987pt too wide) in paragraph at lines 384--384
+[][][]\T1/cmr/bx/n/12 Dr. D.Y. PATIL IN-STI-TUTE OF EN-GI-NEER-ING MAN-AGE-MENT
+ AND RE-SEARCH, AKURDI,
+ []
+
+[1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (6.28886pt too wide) in paragraph at lines 394--394
+[][][]\T1/cmr/bx/n/12 Dr. D. Y. PATIL IN-STI-TUTE OF EN-GI-NEER-ING MAN-AGE-MEN
+-TAN-DRESEARCH, AKURDI,[] 
+ []
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.504 \clearpage
+                \setcounter{page}{1}\pagestyle{Convertedii} [1
+
+]
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.566 \clearpage
+                \setcounter{page}{1}\pagestyle{Convertediii} [1
+
+]
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.667 \clearpage
+                \setcounter{page}{1}\pagestyle{Convertediv} [1
+
+]
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.705 \clearpage
+                \setcounter{page}{1}\pagestyle{Convertedv} [1
+
+]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 721
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 348
+LaTeX Font Info:    Trying to load font information for U+msb on input line 721
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (24.44124pt too wide) in paragraph at lines 348--361
-[]  
- []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-\T1/cmr/m/n/10 [Warning: Draw object ignored]
- []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-\T1/cmr/m/n/10 2
- []
-
-[2
-
- <./rahulop-img003.jpg>]
-Underfull \hbox (badness 10000) has occurred while \output is active
-\T1/cmr/m/n/10 1
- []
-
-
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.465 \clearpage
-                \clearpage\setcounter{page}{1}\pagestyle{Convertediii} [1
-
-]
-Underfull \hbox (badness 10000) has occurred while \output is active
-\T1/cmr/m/n/10 1
- []
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.499 \clearpage
-                \setcounter{page}{1}\pagestyle{Convertediv} [1
-
-
-]
-Overfull \hbox (89.65356pt too wide) in paragraph at lines 507--508
-[][]\T1/cmr/m/n/10 CERTIFICATE.................................................
-.....................................................2[] 
- []
-
-
-Overfull \hbox (85.2102pt too wide) in paragraph at lines 509--510
-[][]\T1/cmr/m/n/10 DECLARATION.................................................
-...................................................3[] 
- []
-
-
-Overfull \hbox (75.42093pt too wide) in paragraph at lines 511--512
-[]\T1/cmr/m/n/10 ACKNOWLEDGEMENT...............................................
-...........................................3 
- []
-
-
-Overfull \hbox (92.70837pt too wide) in paragraph at lines 514--515
-[][]\T1/cmr/m/n/10 ABSTRACT....................................................
-......................................................4
- []
-
-(./rahul_op.toc)
-\tf@toc=\write4
-\openout4 = `rahul_op.toc'.
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-\T1/cmr/m/n/10 1
- []
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.519 \clearpage
-                \setcounter{page}{1}\pagestyle{Convertedv} [1
-
-] (./rahul_op.toc)
-\tf@toc=\write5
-\openout5 = `rahul_op.toc'.
-
-(./rahul_op.toc)
-\tf@toc=\write6
-\openout6 = `rahul_op.toc'.
-
- (./rahul_op.toc)
-\tf@toc=\write7
-\openout7 = `rahul_op.toc'.
-
- (./rahul_op.toc)
-\tf@toc=\write8
-\openout8 = `rahul_op.toc'.
-
- (./rahul_op.toc)
-\tf@toc=\write9
-\openout9 = `rahul_op.toc'.
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-\T1/cmr/m/n/10 1
- []
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.606 \clearpage
+l.792 \clearpage
                 \setcounter{page}{1}\pagestyle{Convertedvi} [1
 
 ]
-Underfull \hbox (badness 10000) has occurred while \output is active
-\T1/cmr/m/n/10 1
- []
-
-
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.668 
-       [1
+l.830 \clearpage
+                \setcounter{page}{1}\pagestyle{Convertedvii} [1
 
 ]
-Underfull \hbox (badness 10000) has occurred while \output is active
-\T1/cmr/m/n/10 2
- []
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.681 \clearpage
-                \setcounter{page}{1}\pagestyle{Convertedvii} [2]
-Underfull \hbox (badness 6063) in paragraph at lines 723--723
-[]\T1/cmr/m/n/10 Music pro-vides en-joy-ment and
- []
-
-
-Underfull \hbox (badness 2744) in paragraph at lines 731--732
-[]\T1/cmr/m/n/10 Individuals are drawn to mu-sic
- []
-
-
-Underfull \hbox (badness 3049) in paragraph at lines 731--732
-\T1/cmr/m/n/10 for sim-i-lar rea-sons that at-tract
- []
-
-
-Underfull \hbox (badness 1509) in paragraph at lines 738--740
-[]\T1/cmr/m/n/10 The re-search demon-strated that
- []
-
-
-Overfull \hbox (35.57674pt too wide) in paragraph at lines 703--758
-[]  
- []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-\T1/cmr/m/n/10 1
- []
-
-
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.779 \clearpage
+l.871 \clearpage
                 \setcounter{page}{1}\pagestyle{Convertedviii} [1
 
 ]
-<rahulop-img004.jpg, id=57, 596.2275pt x 583.17876pt>
-File: rahulop-img004.jpg Graphic file (type jpg)
-<use rahulop-img004.jpg>
-Package pdftex.def Info: rahulop-img004.jpg  used on input line 793.
-(pdftex.def)             Requested size: 316.6177pt x 241.64983pt.
-<rahulop-img005.jpg, id=58, 833.1125pt x 393.47pt>
-File: rahulop-img005.jpg Graphic file (type jpg)
-<use rahulop-img005.jpg>
-Package pdftex.def Info: rahulop-img005.jpg  used on input line 822.
-(pdftex.def)             Requested size: 453.00127pt x 198.39757pt.
-
-Overfull \hbox (15.0059pt too wide) in paragraph at lines 822--823
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-\T1/cmr/m/n/10 1
- []
-
-
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.825 ...tem Flow of Emotion-Based Music Player}}}
-                                                   [1
-
- <./rahulop-img004.jpg>]
-Underfull \hbox (badness 10000) has occurred while \output is active
-\T1/cmr/m/n/10 2
- []
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.848 \clearpage
-                {\bfseries [2 <./rahulop-img005.jpg>]
-Underfull \hbox (badness 10000) has occurred while \output is active
-\T1/cmr/m/n/10 3
- []
-
-[3
+l.902 \clearpage
+                \setcounter{page}{1}\pagestyle{Convertedix} [1
 
 ]
-<rahulop-img006.jpg, id=75, 778.91pt x 344.28625pt>
-File: rahulop-img006.jpg Graphic file (type jpg)
-<use rahulop-img006.jpg>
-Package pdftex.def Info: rahulop-img006.jpg  used on input line 901.
-(pdftex.def)             Requested size: 452.9923pt x 189.72049pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.943 \clearpage
+                \setcounter{page}{1}\pagestyle{Convertedx} [1
 
-Overfull \hbox (14.99693pt too wide) in paragraph at lines 901--902
-[][] 
+]
+Underfull \hbox (badness 2050) in paragraph at lines 977--977
+[][]\T1/cmr/m/n/10 Napkin Vend-ing and Dis-
  []
 
 
-Underfull \hbox (badness 10000) has occurred while \output is active
-\T1/cmr/m/n/10 1
+Underfull \hbox (badness 1019) in paragraph at lines 978--978
+[][]\T1/cmr/m/n/10 V.M.Pimpalkar, Suraj G.
+ []
+
+
+Underfull \hbox (badness 1092) in paragraph at lines 986--986
+[][]\T1/cmr/m/n/10 Prof. P.R.Rane, Pallavi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 986--986
+\T1/cmr/m/n/10 Bhise, Anandi Mo-
+ []
+
+
+Underfull \hbox (badness 7186) in paragraph at lines 989--990
+[][]\T1/cmr/m/n/10 Sanitary Nap-kin Vend-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 992--992
+[][]\T1/cmr/m/n/10 Arcot Aashish Arun
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 992--992
+\T1/cmr/m/n/10 Ku-mar, Ra-ma-rangula
  []
 
 
@@ -694,196 +625,153 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.948 \ 
-        \textbf{Result:} Customize music list based on emotion-recognized in...
-[1
-
- <./rahulop-img006.jpg>]
-<rahulop-img007.jpg, id=84, 525.965pt x 735.74875pt>
-File: rahulop-img007.jpg Graphic file (type jpg)
-<use rahulop-img007.jpg>
-Package pdftex.def Info: rahulop-img007.jpg  used on input line 951.
-(pdftex.def)             Requested size: 272.53227pt x 376.41692pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-\T1/cmr/m/n/10 2
- []
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.977 T
-       he EMO algorithm employs the following formula to calculate the song ...
-[2 <./rahulop-img007.jpg>]
-Underfull \hbox (badness 10000) has occurred while \output is active
-\T1/cmr/m/n/10 3
- []
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1023 \clearpage
-                 \setcounter{page}{1}\pagestyle{Convertedx} [3]
-File: rahulop-img004.jpg Graphic file (type jpg)
-<use rahulop-img004.jpg>
-Package pdftex.def Info: rahulop-img004.jpg  used on input line 1030.
-(pdftex.def)             Requested size: 321.45769pt x 228.84477pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-\T1/cmr/m/n/10 1
- []
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1040 \clearpage
+l.1004 \clearpage
                  \setcounter{page}{1}\pagestyle{Convertedxi} [1
 
 ]
-<rahulop-img008.jpg, id=97, 891.33pt x 766.865pt>
-File: rahulop-img008.jpg Graphic file (type jpg)
-<use rahulop-img008.jpg>
-Package pdftex.def Info: rahulop-img008.jpg  used on input line 1050.
-(pdftex.def)             Requested size: 418.57155pt x 408.7885pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-\T1/cmr/m/n/10 1
- []
-
-
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1157 \clearpage
-                 {\bfseries [1
+l.1076 \clearpage
+                 \setcounter{page}{1}\pagestyle{Convertedxii} [1
 
- <./rahulop-img008.jpg>]
-<rahulop-img009.jpg, id=103, 728.7225pt x 776.9025pt>
-File: rahulop-img009.jpg Graphic file (type jpg)
-<use rahulop-img009.jpg>
-Package pdftex.def Info: rahulop-img009.jpg  used on input line 1160.
-(pdftex.def)             Requested size: 392.61473pt x 363.57942pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-\T1/cmr/m/n/10 2
- []
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1204 
-        [2
-
- <./rahulop-img009.jpg>]
-<rahulop-img010.jpg, id=111, 853.1875pt x 946.53625pt>
-File: rahulop-img010.jpg Graphic file (type jpg)
-<use rahulop-img010.jpg>
-Package pdftex.def Info: rahulop-img010.jpg  used on input line 1206.
-(pdftex.def)             Requested size: 465.24486pt x 464.48564pt.
-
-Overfull \hbox (12.2495pt too wide) in paragraph at lines 1206--1207
- [] 
- []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-\T1/cmr/m/n/10 3
- []
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1211 \clearpage
-                 {\bfseries [3 <./rahulop-img010.jpg>]
-<rahulop-img011.jpg, id=116, 744.7825pt x 558.085pt>
-File: rahulop-img011.jpg Graphic file (type jpg)
-<use rahulop-img011.jpg>
-Package pdftex.def Info: rahulop-img011.jpg  used on input line 1227.
-(pdftex.def)             Requested size: 450.33911pt x 337.519pt.
-
-Overfull \hbox (12.34375pt too wide) in paragraph at lines 1227--1228
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-\T1/cmr/m/n/10 4
- []
-
-[4
-
- <./rahulop-img011.jpg>]
-Underfull \hbox (badness 10000) has occurred while \output is active
-\T1/cmr/m/n/10 1
- []
-
-
+]
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1263 \clearpage
+l.1152 \clearpage
                  \setcounter{page}{1}\pagestyle{Convertedxiii} [1
 
 ]
-Underfull \hbox (badness 10000) has occurred while \output is active
-\T1/cmr/m/n/10 1
- []
-
-
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1284 \clearpage
+l.1219 \clearpage
                  \setcounter{page}{1}\pagestyle{Convertedxiv} [1
 
 ]
-Underfull \hbox (badness 10000) has occurred while \output is active
-\T1/cmr/m/n/10 1
- []
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1293 \clearpage
+                 \setcounter{page}{1}\pagestyle{Convertedxv} [1
 
+]
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1378 \clearpage
+                 \setcounter{page}{1}\pagestyle{Convertedxvi} [1
+
+]
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1461 \clearpage
+                 \setcounter{page}{1}\pagestyle{Convertedxvii} [1
+
+]
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1521 \clearpage
+                 \setcounter{page}{1}\pagestyle{Convertedxviii} [1
+
+]
+<DocumentfromPrachiTorave-img001.jpg, id=305, 524.96124pt x 384.43625pt>
+File: DocumentfromPrachiTorave-img001.jpg Graphic file (type jpg)
+<use DocumentfromPrachiTorave-img001.jpg>
+Package pdftex.def Info: DocumentfromPrachiTorave-img001.jpg  used on input lin
+e 1552.
+(pdftex.def)             Requested size: 393.36751pt x 288.36166pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1395 \end{document}
+l.1554 \clearpage
+                 \setcounter{page}{1}\pagestyle{Convertedxix} [1
+
+ <./DocumentfromPrachiTorave-img001.jpg>]
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1603 \clearpage
+                 \setcounter{page}{1}\pagestyle{Convertedxx} [1
+
+]
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1635 \clearpage
+                 \setcounter{page}{1}\pagestyle{Convertedxxi} [1
+
+]
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1707 \clearpage
+                 \setcounter{page}{1}\pagestyle{Convertedxxii} [1
+
+]
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1735 \clearpage
+                 \setcounter{page}{1}\pagestyle{Convertedxxiii} [1
+
+]
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1790 \clearpage
+                 \setcounter{page}{1}\pagestyle{Convertedxxiv} [1
+
+]
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1859 \end{document}
                       [1
 
-] (./rahul_op.aux)
-Package rerunfilecheck Info: File `rahul_op.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+] (./Document from Prachi Torave.aux)
+Package rerunfilecheck Info: File `"Document from Prachi Torave".out' has not c
+hanged.
+(rerunfilecheck)             Checksum: 8DEF3A237632BEEDE17BBD32FDEE6444;8231.
  ) 
 Here is how much of TeX's memory you used:
- 11060 strings out of 477975
- 173921 string characters out of 5839280
- 1861330 words of memory out of 5000000
- 30972 multiletter control sequences out of 15000+600000
- 518104 words of font info for 46 fonts, out of 8000000 for 9000
+ 11240 strings out of 477975
+ 176526 string characters out of 5839280
+ 1862330 words of memory out of 5000000
+ 31118 multiletter control sequences out of 15000+600000
+ 520330 words of font info for 49 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
- 75i,9n,76p,383b,472s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,9n,76p,578b,453s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/shantanu/.texlive2022/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.
-600pk> </home/shantanu/.texlive2022/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbi1
-000.600pk> </home/shantanu/.texlive2022/texmf-var/fonts/pk/ljfour/jknappen/ec/e
-crm1000.600pk> </home/shantanu/.texlive2022/texmf-var/fonts/pk/ljfour/jknappen/
-ec/ecbx1000.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmsy10.pfb>
-Output written on rahul_op.pdf (23 pages, 613641 bytes).
+600pk> </home/shantanu/.texlive2022/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1
+440.600pk> </home/shantanu/.texlive2022/texmf-var/fonts/pk/ljfour/jknappen/ec/e
+cbi1000.600pk> </home/shantanu/.texlive2022/texmf-var/fonts/pk/ljfour/jknappen/
+ec/ecti1000.600pk> </home/shantanu/.texlive2022/texmf-var/fonts/pk/ljfour/jknap
+pen/ec/ecbx1000.600pk> </home/shantanu/.texlive2022/texmf-var/fonts/pk/ljfour/j
+knappen/ec/ecbx1200.600pk> </home/shantanu/.texlive2022/texmf-var/fonts/pk/ljfo
+ur/jknappen/ec/ecrm1000.600pk>
+Output written on "Document from Prachi Torave.pdf" (25 pages, 168377 bytes).
 PDF statistics:
- 366 PDF objects out of 1000 (max. 8388607)
- 134 compressed objects within 2 object streams
- 48 named destinations out of 1000 (max. 500000)
- 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 734 PDF objects out of 1000 (max. 8388607)
+ 353 compressed objects within 4 object streams
+ 100 named destinations out of 1000 (max. 500000)
+ 390 words of extra memory for PDF output out of 10000 (max. 10000000)
 
